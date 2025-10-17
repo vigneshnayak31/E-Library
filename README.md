@@ -1,4 +1,4 @@
-# BookXs E‑Library (Pure PHP, MySQL)
+# BookXs E‑Library 
 
 Minimal, standards-compliant website to explore BookXs libraries across India and manage books. Built with vanilla HTML, CSS, JS, PHP, and MySQL.
 
@@ -24,3 +24,7 @@ See the folders and files within this repository. No frameworks are used; only F
 - User login requires name, email, and location (city/state). Nearest library is suggested by city match.
 - Borrow/purchase adjusts availability where appropriate.
 - Code adheres to W3C HTML5 semantics and minimal styling for a clean UX.
+
+cajdk'
+
+djfkdjf
